@@ -52,7 +52,7 @@ class QuizBank {
         context: context,
         type: AlertType.error,
         title: "Hurray!",
-        desc: "Flutter is more awesome with RFlutter Alert.",
+        desc: "You completed the Quiz Successfully.",
         buttons: [
           DialogButton(
             onPressed: () {
